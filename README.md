@@ -5,7 +5,7 @@
 **Official session catalog:** https://www.thewlpc.com/conferences/prg26  
 **Video archive / channel:** https://wlanprofessionals.com/wlpcvideolibrary/
 
-> **Link note:** The official conference page lists the sessions and speakers, but I could not verify a direct YouTube watch URL for every Prague 2026 recording during this compilation. Each title below links to a YouTube search for the exact session title, which should surface the recording when available. Topics are concise summaries inferred from the published session titles, not a transcript-level review.
+> **Link note:** The following link may not match the official one released on YouTube, but the title should be correct.
 
 ## AI, automation, and engineering productivity
 
